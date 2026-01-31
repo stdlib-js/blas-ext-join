@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-join",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return an ndarray created by joining elements using a separator along one or more ndarray dimensions.",
   "license": "Apache-2.0",
   "author": {
@@ -40,12 +40,12 @@
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/blas-ext-base-ndarray-gjoin": "github:stdlib-js/blas-ext-base-ndarray-gjoin#main",
+    "@stdlib/blas-ext-base-ndarray-gjoin": "^0.1.0",
     "@stdlib/ndarray-base-broadcast-scalar": "^0.2.2",
-    "@stdlib/ndarray-base-complement-shape": "github:stdlib-js/ndarray-base-complement-shape#main",
+    "@stdlib/ndarray-base-complement-shape": "^0.1.0",
     "@stdlib/ndarray-base-maybe-broadcast-array": "^0.2.3",
     "@stdlib/ndarray-base-unary-reduce-strided1d-dispatch-factory": "github:stdlib-js/ndarray-base-unary-reduce-strided1d-dispatch-factory#main",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
+    "@stdlib/ndarray-dtypes": "^0.4.0",
     "@stdlib/ndarray-order": "^0.2.2",
     "@stdlib/ndarray-shape": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
@@ -98,7 +98,6 @@
     "array",
     "ndarray"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
