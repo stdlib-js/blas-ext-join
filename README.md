@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-join@deno/mod.js';
+import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-join@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-join@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-join@v0.1.1-deno/mod.js';
 ```
 
 #### join( x\[, options] )
@@ -185,7 +185,7 @@ The method accepts the following options:
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@deno/mod.js';
-import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-join@deno/mod.js';
+import join from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-join@v0.1.1-deno/mod.js';
 
 // Generate an array of random numbers:
 var xbuf = discreteUniform( 10, 0, 20, {
