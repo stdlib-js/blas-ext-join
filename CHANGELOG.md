@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-08)
+## Unreleased (2026-04-09)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`e47ee45`](https://github.com/stdlib-js/stdlib/commit/e47ee4551cf19ad584361fb80c9eed84ff9ea792) - resolve bugs, docs, and JSDoc type errors [(#11337)](https://github.com/stdlib-js/stdlib/pull/11337)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`e47ee45`](https://github.com/stdlib-js/stdlib/commit/e47ee4551cf19ad584361fb80c9eed84ff9ea792) - **fix:** resolve bugs, docs, and JSDoc type errors [(#11337)](https://github.com/stdlib-js/stdlib/pull/11337) _(by Philipp Burckhardt)_
 -   [`9d4553a`](https://github.com/stdlib-js/stdlib/commit/9d4553a3cff34f427bd71476a7485abfa57673fc) - **test:** fix broken test _(by Athan Reines)_
 -   [`c4e430f`](https://github.com/stdlib-js/stdlib/commit/c4e430f98dea05d522358f6fc995e36c86347eb8) - **refactor:** add explicit rank check _(by Athan Reines)_
 -   [`e943036`](https://github.com/stdlib-js/stdlib/commit/e943036fc2a2c94421d4afcb3bc35723bba57834) - **refactor:** use explicit utility for returning the rank of an array _(by Athan Reines)_
@@ -27,9 +38,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
