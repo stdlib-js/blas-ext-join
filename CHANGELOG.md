@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-11)
+## Unreleased (2026-04-17)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f86463f`](https://github.com/stdlib-js/stdlib/commit/f86463f707d7ae6e64851f890959d8f6515f885c) - **test:** fix dtype comparisons _(by Athan Reines)_
 -   [`e47ee45`](https://github.com/stdlib-js/stdlib/commit/e47ee4551cf19ad584361fb80c9eed84ff9ea792) - **fix:** resolve bugs, docs, and JSDoc type errors [(#11337)](https://github.com/stdlib-js/stdlib/pull/11337) _(by Philipp Burckhardt)_
 -   [`9d4553a`](https://github.com/stdlib-js/stdlib/commit/9d4553a3cff34f427bd71476a7485abfa57673fc) - **test:** fix broken test _(by Athan Reines)_
 -   [`c4e430f`](https://github.com/stdlib-js/stdlib/commit/c4e430f98dea05d522358f6fc995e36c86347eb8) - **refactor:** add explicit rank check _(by Athan Reines)_
